@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2554a74.css",
+    "main.js": "/static/js/main.c9c99fc0.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/home-hero.jpg": "/static/media/home-hero.17854e65ef25af03c654.jpg",
+    "static/media/heart-regular.svg": "/static/media/heart-regular.571490ba72c0dfaf5bdb947635165cdb.svg",
+    "static/media/eye-solid.svg": "/static/media/eye-solid.0dbfb3bfec8391af3c1c1a0550066a5b.svg",
+    "static/media/arrow-right-arrow-left-solid.svg": "/static/media/arrow-right-arrow-left-solid.94fb1b8b93ca3648e33a9b12e770ea1e.svg",
+    "index.html": "/index.html",
+    "static/media/bars-solid.svg": "/static/media/bars-solid.03d8fca824361d120c6ed13befe72b12.svg",
+    "static/media/magnifying-glass-solid.svg": "/static/media/magnifying-glass-solid.52f5fbae171687a5b5271b18a4f80047.svg",
+    "main.f2554a74.css.map": "/static/css/main.f2554a74.css.map",
+    "main.c9c99fc0.js.map": "/static/js/main.c9c99fc0.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2554a74.css",
+    "static/js/main.c9c99fc0.js"
+  ]
+}
